@@ -9,9 +9,13 @@ The inspiration for this project came from my desire to apply my data analysis s
 This project involves a comprehensive analysis of my TikTok channel's performance data from May 30, 2024, to July 31, 2024. The data includes information on post dates, times, likes, comments, views, favorites, songs used, voiceovers, TikTok sounds, and the presence of hashtags. The analysis follows the data analysis process stages: ASK, PREPARE, PROCESS, ANALYZE, SHARE, and ACT.
 # Tools and Techniques
 Throughout this project, I utilized various Microsoft Excel features and techniques, including:
+
 •	Data Entry: Recording detailed metrics for each TikTok post.
+
 •	Functions and Formulas: Using Excel's built-in functions and custom formulas to manipulate and analyze data.
+
 •	Macros and VBA: Automating repetitive tasks to improve efficiency and accuracy.
+
 •	PivotTables: Summarizing and exploring data to uncover insights.
 •	Themes: Designing a visually appealing and professional dashboard.
 # Data Analysis Process

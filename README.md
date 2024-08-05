@@ -30,6 +30,7 @@ The first step in my data analysis process was to define the key questions I wan
 •	How do different elements (e.g., hashtags, sounds) impact engagement metrics?
 
 **PREPARE**
+
 Next, I prepared my data for analysis by collecting and recording detailed information on each TikTok post. This involved:
 
 •	Ensuring accurate data entry for all metrics.
@@ -37,6 +38,7 @@ Next, I prepared my data for analysis by collecting and recording detailed infor
 •	Formatting the data consistently for easy analysis.
 
 **PROCESS**
+
 I processed the data by cleaning it and transforming it into a format suitable for analysis:
 
 •	Removing any inconsistencies or errors in the data.
@@ -46,6 +48,7 @@ I processed the data by cleaning it and transforming it into a format suitable f
 •	Creating additional columns for derived metrics.
 
 **ANALYZE**
+
 During the analysis phase, I used various Excel tools to uncover insights from the data:
 
 •	**PivotTables:** To summarize data and identify patterns.
@@ -55,6 +58,7 @@ During the analysis phase, I used various Excel tools to uncover insights from t
 •	**Formulas:** To calculate engagement rates and other key metrics.
 
 **SHARE**
+
 I shared my findings by creating a detailed and interactive dashboard in Excel:
 
 •	The dashboard highlights key metrics such as average views, likes, and comments by topic, hashtag usage, audio type, and time of day.
@@ -62,6 +66,7 @@ I shared my findings by creating a detailed and interactive dashboard in Excel:
 •	It provides a comprehensive overview of my TikTok channel's performance and engagement trends.
 
 **ACT**
+
 Based on the insights gained from my analysis, I implemented the following actions to grow my TikTok channel:
 •	Focused on creating content types that performed best (e.g., informative and educational).
 
@@ -69,8 +74,9 @@ Based on the insights gained from my analysis, I implemented the following actio
 
 •	Utilized hashtags and sounds strategically to boost engagement.
 # Repository Contents
-•	**TikTok Channel Data Analysis Workbook:** The Excel workbook containing all data and analysis. Downlad the ‘Tiktok Project.xlsx’  file.
-How to Access the Workbook
+•	**TikTok Channel Data Analysis Workbook:** 
+The Excel workbook containing all data and analysis. Downlad the ‘Tiktok Project.xlsx’  file.
+**How to Access the Workbook**
 To ensure data security and privacy, the workbook is set to read-only and protected with a password. To open the workbook, use the password: 12345.
 # Conclusion
 This project not only helped me grow my TikTok channel but also demonstrated my ability to apply data analysis skills to achieve tangible results. I am excited to share this journey with you and hope it provides valuable insights into the power of data-driven decision-making.

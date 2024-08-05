@@ -21,7 +21,8 @@ Throughout this project, I utilized various Microsoft Excel features and techniq
 •	Themes: Designing a visually appealing and professional dashboard.
 # Data Analysis Process
 
-ASK
+1. ASK
+
 The first step in my data analysis process was to define the key questions I wanted to answer:
 
 •	What type of content resonates most with my audience?
@@ -29,13 +30,15 @@ The first step in my data analysis process was to define the key questions I wan
 •	What are the optimal times to post for maximum engagement?
 
 •	How do different elements (e.g., hashtags, sounds) impact engagement metrics?
-PREPARE
+
+2. PREPARE
 Next, I prepared my data for analysis by collecting and recording detailed information on each TikTok post. This involved:
 
 •	Ensuring accurate data entry for all metrics.
 
 •	Formatting the data consistently for easy analysis.
-PROCESS
+
+3. PROCESS
 I processed the data by cleaning it and transforming it into a format suitable for analysis:
 
 •	Removing any inconsistencies or errors in the data.
@@ -43,7 +46,8 @@ I processed the data by cleaning it and transforming it into a format suitable f
 •	Categorizing date data into Monday, Tuesday, Wednesday to Sunday.
 
 •	Creating additional columns for derived metrics.
-ANALYZE
+
+4. ANALYZE
 During the analysis phase, I used various Excel tools to uncover insights from the data:
 
 •	PivotTables: To summarize data and identify patterns.
@@ -51,13 +55,15 @@ During the analysis phase, I used various Excel tools to uncover insights from t
 •	Charts and Graphs: To visualize trends and comparisons.
 
 •	Formulas: To calculate engagement rates and other key metrics.
-SHARE
+
+5. SHARE
 I shared my findings by creating a detailed and interactive dashboard in Excel:
 
 •	The dashboard highlights key metrics such as average views, likes, and comments by topic, hashtag usage, audio type, and time of day.
 
 •	It provides a comprehensive overview of my TikTok channel's performance and engagement trends.
-ACT
+
+6. ACT
 Based on the insights gained from my analysis, I implemented the following actions to grow my TikTok channel:
 •	Focused on creating content types that performed best (e.g., informative and educational).
 

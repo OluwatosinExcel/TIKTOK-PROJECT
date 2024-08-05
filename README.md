@@ -1,5 +1,3 @@
-## TIKTOK-PROJECT
-
 # TikTok Channel Data Analysis Project
 # Introduction
 Welcome to my TikTok Channel Data Analysis project! My name is Babalola Oluwatosin, and I'm a data analyst with a passion for uncovering insights and telling stories through data. This project is a reflection of my journey and expertise in data analysis, which I embarked on to grow my TikTok channel using data-driven strategies. Over the course of two months, I gained over 6,000 followers, and this repository contains the detailed analysis that made it possible.
@@ -10,18 +8,18 @@ This project involves a comprehensive analysis of my TikTok channel's performanc
 # Tools and Techniques
 Throughout this project, I utilized various Microsoft Excel features and techniques, including:
 
-•	Data Entry: Recording detailed metrics for each TikTok post.
+•	**Data Entry:** Recording detailed metrics for each TikTok post.
 
-•	Functions and Formulas: Using Excel's built-in functions and custom formulas to manipulate and analyze data.
+•	**Functions and Formulas:** Using Excel's built-in functions and custom formulas to manipulate and analyze data.
 
-•	Macros and VBA: Automating repetitive tasks to improve efficiency and accuracy.
+•	**Macros and VBA:** Automating repetitive tasks to improve efficiency and accuracy.
 
-•	PivotTables: Summarizing and exploring data to uncover insights.
+•	**PivotTables:** Summarizing and exploring data to uncover insights.
 
-•	Themes: Designing a visually appealing and professional dashboard.
+•	**Themes:** Designing a visually appealing and professional dashboard.
 # Data Analysis Process
 
-1. ASK
+**ASK**
 
 The first step in my data analysis process was to define the key questions I wanted to answer:
 
@@ -31,14 +29,14 @@ The first step in my data analysis process was to define the key questions I wan
 
 •	How do different elements (e.g., hashtags, sounds) impact engagement metrics?
 
-2. PREPARE
+**PREPARE**
 Next, I prepared my data for analysis by collecting and recording detailed information on each TikTok post. This involved:
 
 •	Ensuring accurate data entry for all metrics.
 
 •	Formatting the data consistently for easy analysis.
 
-3. PROCESS
+**PROCESS**
 I processed the data by cleaning it and transforming it into a format suitable for analysis:
 
 •	Removing any inconsistencies or errors in the data.
@@ -47,23 +45,23 @@ I processed the data by cleaning it and transforming it into a format suitable f
 
 •	Creating additional columns for derived metrics.
 
-4. ANALYZE
+**ANALYZE**
 During the analysis phase, I used various Excel tools to uncover insights from the data:
 
-•	PivotTables: To summarize data and identify patterns.
+•	**PivotTables:** To summarize data and identify patterns.
 
-•	Charts and Graphs: To visualize trends and comparisons.
+•	**Charts and Graphs:** To visualize trends and comparisons.
 
-•	Formulas: To calculate engagement rates and other key metrics.
+•	**Formulas:** To calculate engagement rates and other key metrics.
 
-5. SHARE
+**SHARE**
 I shared my findings by creating a detailed and interactive dashboard in Excel:
 
 •	The dashboard highlights key metrics such as average views, likes, and comments by topic, hashtag usage, audio type, and time of day.
 
 •	It provides a comprehensive overview of my TikTok channel's performance and engagement trends.
 
-6. ACT
+**ACT**
 Based on the insights gained from my analysis, I implemented the following actions to grow my TikTok channel:
 •	Focused on creating content types that performed best (e.g., informative and educational).
 
@@ -71,7 +69,7 @@ Based on the insights gained from my analysis, I implemented the following actio
 
 •	Utilized hashtags and sounds strategically to boost engagement.
 # Repository Contents
-•	TikTok Channel Data Analysis Workbook: The Excel workbook containing all data and analysis. Downlad the ‘Tiktok Project.xlsx’  file.
+•	**TikTok Channel Data Analysis Workbook:** The Excel workbook containing all data and analysis. Downlad the ‘Tiktok Project.xlsx’  file.
 How to Access the Workbook
 To ensure data security and privacy, the workbook is set to read-only and protected with a password. To open the workbook, use the password: 12345.
 # Conclusion
